@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201341630715",
+    "project_id": "acommerce-df2b7",
+    "storage_bucket": "acommerce-df2b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201341630715:android:dbbb7d4db65f2ef976d85e",
+        "android_client_info": {
+          "package_name": "com.tvacstudio.a_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201341630715-q3775a53hjvcelcacujqe3hj6ig6q355.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ3v7_eKdjahBxqzEeKL0gUx9nwZBOT8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201341630715-q3775a53hjvcelcacujqe3hj6ig6q355.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
